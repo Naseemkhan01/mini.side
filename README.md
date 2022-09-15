@@ -1,2 +1,1 @@
-# mini.side
-mini.side
+mini side.html
